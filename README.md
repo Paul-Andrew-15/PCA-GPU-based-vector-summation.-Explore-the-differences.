@@ -494,13 +494,13 @@ int main(int argc, char **argv)
 
 ## Output:
 ### block.x = 1023
-![image](./ot1)
+![image](./ot1.PNG)
 
 ### block.x = 1024
-![image]()(./ot2)
+![image]()(./ot2.PNG)
 
 ### block.x = 256
-![image](./ot3)
+![image](./ot3.PNG)
 
 ## Host-based array summation vs GPU-based vector summation
 GPUs: “SIMD” - “Single-Instruction, Multiple-Data”. A GPU can operate on a hundred or a thousand vertices or pixels at once in parallel, but it has to perform exactly the same calculation on all of them.
