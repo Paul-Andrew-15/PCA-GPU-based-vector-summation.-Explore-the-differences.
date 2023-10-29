@@ -497,7 +497,7 @@ int main(int argc, char **argv)
 ![image](./ot1.PNG)
 
 ### block.x = 1024
-![image]()(./ot2.PNG)
+![image](./ot2.PNG)
 
 ### block.x = 256
 ![image](./ot3.PNG)
